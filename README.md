@@ -8,9 +8,9 @@ delete and ban message sent by channels
 </h2>
 
 <p align="center">
-<a href="https://railway.app/new/template?template=https://github.com/BrayDenXD/AntiChannelBan&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2CSTRING_BOT_TOKEN%2CSUDO"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blackwhite?style=for-the-badge&logo=railway" width="252""/</a>
+<a href="https://railway.app/new/template?template=https://github.com/amanrajput2001/AntiChannelBan-Tg&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2CSTRING_BOT_TOKEN%2CSUDO"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blackwhite?style=for-the-badge&logo=railway" width="252""/</a>
 
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hydrayt777/AntiChannelBan/tree/master)
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amanrajput2001/AntiChannelBan-Tg/tree/master)
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
 <a href="https://t.me/decodesupport"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
