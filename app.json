@@ -10,7 +10,7 @@
         "AntiChannelBan"
     ],
     "repository": "https://github.com/amanrajput2001/AntiChannelBan-Tg",
-    "website": "https://GitHub.com/BrayDenXD",
+    "website": "https://github.com/amanrajput2001/AntiChannelBan-Tg",
     "success_url": "https://t.me/Decodesupport",
     "env": {
       "BOT_TOKEN": {
